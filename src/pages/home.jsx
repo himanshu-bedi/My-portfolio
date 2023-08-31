@@ -48,7 +48,7 @@ const home = () => {
               >
                 <Row align={"middle"} justify={"center"} >
                   <img
-                    src="src\pages\logo.jpg"
+                    src="../../logo.jpg"
                     style={{
                       height: "20%",
                       width: "50%",

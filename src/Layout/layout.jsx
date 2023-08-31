@@ -34,7 +34,7 @@ const layout = () => {
           width={160}
         >
           <div style={{display: 'flex', justifyContent: 'space-evenly', alignItems: 'center', marginTop: '12px', marginBottom: '12px' }}>
-            <Image preview={false} src="src\Layout\logo.jpg" width={40} height={40} style={{borderRadius:"50%"}}/>
+            <Image preview={false} src="../../logo.jpg" width={40} height={40} style={{borderRadius:"50%"}}/>
           </div>
           <Menu
             theme="dark"

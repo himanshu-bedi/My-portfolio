@@ -108,7 +108,7 @@ const projects = () => {
             <a href = "https://sports-app-one.vercel.app/" target="_blank">
             <Card 
             cover={ <img
-                    src="src\pages\playtarium.png"
+                    src="../../playtarium.PNG"
                     style={{
                       objectFit: 'cover',
                       height: '13rem', 
